@@ -12,4 +12,4 @@ function generateArray(value1,value2){
   }
 
   // the result after the function is called will be logged at the terminal
-  console.log(generateArray(-4,19))
+  console.log(generateArray(-4,19));

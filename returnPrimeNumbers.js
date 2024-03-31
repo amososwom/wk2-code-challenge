@@ -23,4 +23,4 @@ function generatePrimeNumbers(array){
 }
 
 // the result after console.log will be seen on your terminal
-console.log(generatePrimeNumbers(randomNumbers))
+console.log(generatePrimeNumbers(randomNumbers));

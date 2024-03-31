@@ -15,4 +15,4 @@ function swapCase(string){
     return  i[0].toLowerCase() + (i.slice(1)).toUpperCase()
     }).join(" "); // thisjoin(' ') will retur the array back to a string when done 
 }
-console.log(swapCase(string))
+console.log(swapCase(string));
