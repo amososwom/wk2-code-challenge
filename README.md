@@ -1,11 +1,14 @@
-# (Project Name)
+# (Swap-Case, Genarate-Array, Return-Prime Numbers)
 
-#### Date, 2018/09/14
+#### Date, 2024/03/31
 
-#### By *Hamida Mstafa Mohamed*
+#### By *Amos Omwando Oswo*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+This is are three different project including (Swap-Case, Genarate-Array, Return-Prime Numbers) that have diffrent output documented below;
+
+#### => Swap-Case
+- This block of code is represented on file named swapeCase.js when the file is runned it will outup a swaped case of a sentence.  
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
